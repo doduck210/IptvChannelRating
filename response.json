@@ -1,0 +1,369 @@
+{
+    "STATUS": {
+        "CODE": "000",
+        "MESSAGE": "성공"
+    },
+    "DATA": {
+        "DATETIME": "2024-05-16 13:03:43",
+        "GENRE_CNT": "13",
+        "GENRE_LIST": [
+            {
+                "GENRE_ID": "all",
+                "GENRE_NM": "전체채널"
+            },
+            {
+                "GENRE_ID": "0",
+                "GENRE_NM": "선호채널"
+            },
+            {
+                "GENRE_ID": "p",
+                "GENRE_NM": "실시간인기채널",
+                "PRODUCT_NM": "지니TV에 연결해 주세요",
+                "CHNL_CNT": "29",
+                "CHNL_LIST": [
+                    {
+                        "CHNL_NO": "9",
+                        "CHNL_NM": "KBS1",
+                        "TOP10_PGRM_NM": "KBS네트워크특선 별별다방 [광주총국]",
+                        "TOP10_PRGM_TM": "13:00 ~ 13:50",
+                        "TOP10_STRT_TM": "13:00",
+                        "TOP10_FIN_TM": "13:50",
+                        "TOP10_RATING": "6.25",
+                        "TOP10_RATING_CD": "0"
+                    },
+                    {
+                        "CHNL_NO": "18",
+                        "CHNL_NM": "채널A",
+                        "TOP10_PGRM_NM": "뉴스A LIVE",
+                        "TOP10_PRGM_TM": "12:00 ~ 13:20",
+                        "TOP10_STRT_TM": "12:00",
+                        "TOP10_FIN_TM": "13:20",
+                        "TOP10_RATING": "5.76",
+                        "TOP10_RATING_CD": "0"
+                    },
+                    {
+                        "CHNL_NO": "24",
+                        "CHNL_NM": "YTN",
+                        "TOP10_PGRM_NM": "뉴스NOW",
+                        "TOP10_PRGM_TM": "11:30 ~ 13:50",
+                        "TOP10_STRT_TM": "11:30",
+                        "TOP10_FIN_TM": "13:50",
+                        "TOP10_RATING": "5.65",
+                        "TOP10_RATING_CD": "0"
+                    },
+                    {
+                        "CHNL_NO": "23",
+                        "CHNL_NM": "연합뉴스TV",
+                        "TOP10_PGRM_NM": "뉴스센터 13",
+                        "TOP10_PRGM_TM": "12:55 ~ 13:55",
+                        "TOP10_STRT_TM": "12:55",
+                        "TOP10_FIN_TM": "13:55",
+                        "TOP10_RATING": "4.33",
+                        "TOP10_RATING_CD": "0"
+                    },
+                    {
+                        "CHNL_NO": "11",
+                        "CHNL_NM": "MBC",
+                        "TOP10_PGRM_NM": "수사반장 1958",
+                        "TOP10_PRGM_TM": "12:25 ~ 13:55",
+                        "TOP10_STRT_TM": "12:25",
+                        "TOP10_FIN_TM": "13:55",
+                        "TOP10_RATING": "2.72",
+                        "TOP10_RATING_CD": "15"
+                    },
+                    {
+                        "CHNL_NO": "5",
+                        "CHNL_NM": "SBS",
+                        "TOP10_PGRM_NM": "7인의 부활",
+                        "TOP10_PRGM_TM": "12:40 ~ 14:00",
+                        "TOP10_STRT_TM": "12:40",
+                        "TOP10_FIN_TM": "14:00",
+                        "TOP10_RATING": "2.6",
+                        "TOP10_RATING_CD": "15"
+                    },
+                    {
+                        "CHNL_NO": "3",
+                        "CHNL_NM": "tvN",
+                        "TOP10_PGRM_NM": "줄 서는 식당 2",
+                        "TOP10_PRGM_TM": "12:37 ~ 14:01",
+                        "TOP10_STRT_TM": "12:37",
+                        "TOP10_FIN_TM": "14:01",
+                        "TOP10_RATING": "2.56",
+                        "TOP10_RATING_CD": "15"
+                    },
+                    {
+                        "CHNL_NO": "1",
+                        "CHNL_NM": "ENA",
+                        "TOP10_PGRM_NM": "크래시",
+                        "TOP10_PRGM_TM": "11:52 ~ 13:14",
+                        "TOP10_STRT_TM": "11:52",
+                        "TOP10_FIN_TM": "13:14",
+                        "TOP10_RATING": "2.15",
+                        "TOP10_RATING_CD": "15"
+                    },
+                    {
+                        "CHNL_NO": "0",
+                        "CHNL_NM": "MBC Every1",
+                        "TOP10_PGRM_NM": "위대한 가이드",
+                        "TOP10_PRGM_TM": "11:53 ~ 13:48",
+                        "TOP10_STRT_TM": "11:53",
+                        "TOP10_FIN_TM": "13:48",
+                        "TOP10_RATING": "1.99",
+                        "TOP10_RATING_CD": "15"
+                    },
+                    {
+                        "CHNL_NO": "19",
+                        "CHNL_NM": "TV조선",
+                        "TOP10_PGRM_NM": "보도본부 핫라인",
+                        "TOP10_PRGM_TM": "13:00 ~ 14:20",
+                        "TOP10_STRT_TM": "13:00",
+                        "TOP10_FIN_TM": "14:20",
+                        "TOP10_RATING": "1.92",
+                        "TOP10_RATING_CD": "0"
+                    },
+                    {
+                        "CHNL_NO": "57",
+                        "CHNL_NM": "SBS 골프",
+                        "TOP10_PGRM_NM": "2024 KLPGA 두산 매치플레이(강원도 춘천시 라데나...",
+                        "TOP10_PRGM_TM": "11:00 ~ 13:30",
+                        "TOP10_STRT_TM": "11:00",
+                        "TOP10_FIN_TM": "13:30",
+                        "TOP10_RATING": "1.89",
+                        "TOP10_RATING_CD": "0"
+                    },
+                    {
+                        "CHNL_NO": "16",
+                        "CHNL_NM": "MBN",
+                        "TOP10_PGRM_NM": "MBN 주말 미니시리즈 세자가 사라졌다",
+                        "TOP10_PRGM_TM": "12:40 ~ 14:00",
+                        "TOP10_STRT_TM": "12:40",
+                        "TOP10_FIN_TM": "14:00",
+                        "TOP10_RATING": "1.51",
+                        "TOP10_RATING_CD": "15"
+                    },
+                    {
+                        "CHNL_NO": "7",
+                        "CHNL_NM": "KBS2",
+                        "TOP10_PGRM_NM": "스튜디오 K 스페셜",
+                        "TOP10_PRGM_TM": "12:30 ~ 13:10",
+                        "TOP10_STRT_TM": "12:30",
+                        "TOP10_FIN_TM": "13:10",
+                        "TOP10_RATING": "1.5",
+                        "TOP10_RATING_CD": "15"
+                    },
+                    {
+                        "CHNL_NO": "13",
+                        "CHNL_NM": "EBS",
+                        "TOP10_PGRM_NM": "EBS 평생학교 1교시",
+                        "TOP10_PRGM_TM": "13:00 ~ 13:45",
+                        "TOP10_STRT_TM": "13:00",
+                        "TOP10_FIN_TM": "13:45",
+                        "TOP10_RATING": "1.27",
+                        "TOP10_RATING_CD": "0"
+                    },
+                    {
+                        "CHNL_NO": "37",
+                        "CHNL_NM": "SBS 플러스",
+                        "TOP10_PGRM_NM": "골 때리는 그녀들",
+                        "TOP10_PRGM_TM": "11:49 ~ 13:52",
+                        "TOP10_STRT_TM": "11:49",
+                        "TOP10_FIN_TM": "13:52",
+                        "TOP10_RATING": "1.21",
+                        "TOP10_RATING_CD": "15"
+                    },
+                    {
+                        "CHNL_NO": "15",
+                        "CHNL_NM": "JTBC",
+                        "TOP10_PGRM_NM": "히어로는 아닙니다만",
+                        "TOP10_PRGM_TM": "12:40 ~ 14:10",
+                        "TOP10_STRT_TM": "12:40",
+                        "TOP10_FIN_TM": "14:10",
+                        "TOP10_RATING": "1.09",
+                        "TOP10_RATING_CD": "15"
+                    },
+                    {
+                        "CHNL_NO": "35",
+                        "CHNL_NM": "KBS 드라마",
+                        "TOP10_PGRM_NM": "피도 눈물도 없이",
+                        "TOP10_PRGM_TM": "12:40 ~ 13:10",
+                        "TOP10_STRT_TM": "12:40",
+                        "TOP10_FIN_TM": "13:10",
+                        "TOP10_RATING": "1.01",
+                        "TOP10_RATING_CD": "15"
+                    },
+                    {
+                        "CHNL_NO": "43",
+                        "CHNL_NM": "SBS funE",
+                        "TOP10_PGRM_NM": "덩치 서바이벌-먹찌빠",
+                        "TOP10_PRGM_TM": "11:40 ~ 13:25",
+                        "TOP10_STRT_TM": "11:40",
+                        "TOP10_FIN_TM": "13:25",
+                        "TOP10_RATING": "1.01",
+                        "TOP10_RATING_CD": "15"
+                    },
+                    {
+                        "CHNL_NO": "45",
+                        "CHNL_NM": "tvN DRAMA",
+                        "TOP10_PGRM_NM": "호텔 델루나",
+                        "TOP10_PRGM_TM": "11:50 ~ 13:20",
+                        "TOP10_STRT_TM": "11:50",
+                        "TOP10_FIN_TM": "13:20",
+                        "TOP10_RATING": "1.0",
+                        "TOP10_RATING_CD": "15"
+                    },
+                    {
+                        "CHNL_NO": "69",
+                        "CHNL_NM": "TV조선2",
+                        "TOP10_PGRM_NM": "조선의 사랑꾼",
+                        "TOP10_PRGM_TM": "12:00 ~ 14:00",
+                        "TOP10_STRT_TM": "12:00",
+                        "TOP10_FIN_TM": "14:00",
+                        "TOP10_RATING": "0.97",
+                        "TOP10_RATING_CD": "15"
+                    },
+                    {
+                        "CHNL_NO": "41",
+                        "CHNL_NM": "KBS JOY",
+                        "TOP10_PGRM_NM": "개그 콘서트",
+                        "TOP10_PRGM_TM": "11:50 ~ 13:25",
+                        "TOP10_STRT_TM": "11:50",
+                        "TOP10_FIN_TM": "13:25",
+                        "TOP10_RATING": "0.87",
+                        "TOP10_RATING_CD": "15"
+                    },
+                    {
+                        "CHNL_NO": "94",
+                        "CHNL_NM": "CMC TV",
+                        "TOP10_PGRM_NM": "나는 자연인이다",
+                        "TOP10_PRGM_TM": "12:40 ~ 13:46",
+                        "TOP10_STRT_TM": "12:40",
+                        "TOP10_FIN_TM": "13:46",
+                        "TOP10_RATING": "0.81",
+                        "TOP10_RATING_CD": "0"
+                    },
+                    {
+                        "CHNL_NO": "31",
+                        "CHNL_NM": "MBC 드라마넷",
+                        "TOP10_PGRM_NM": "짠남자",
+                        "TOP10_PRGM_TM": "12:52 ~ 14:21",
+                        "TOP10_STRT_TM": "12:52",
+                        "TOP10_FIN_TM": "14:21",
+                        "TOP10_RATING": "0.81",
+                        "TOP10_RATING_CD": "15"
+                    },
+                    {
+                        "CHNL_NO": "78",
+                        "CHNL_NM": "Lifetime",
+                        "TOP10_PGRM_NM": "용감한 형사들",
+                        "TOP10_PRGM_TM": "12:02 ~ 13:30",
+                        "TOP10_STRT_TM": "12:02",
+                        "TOP10_FIN_TM": "13:30",
+                        "TOP10_RATING": "0.77",
+                        "TOP10_RATING_CD": "15"
+                    },
+                    {
+                        "CHNL_NO": "68",
+                        "CHNL_NM": "CNTV",
+                        "TOP10_PGRM_NM": "동이",
+                        "TOP10_PRGM_TM": "11:50 ~ 13:10",
+                        "TOP10_STRT_TM": "11:50",
+                        "TOP10_FIN_TM": "13:10",
+                        "TOP10_RATING": "0.76",
+                        "TOP10_RATING_CD": "15"
+                    },
+                    {
+                        "CHNL_NO": "47",
+                        "CHNL_NM": "iHQ drama",
+                        "TOP10_PGRM_NM": "나 혼자 산다",
+                        "TOP10_PRGM_TM": "12:15 ~ 14:05",
+                        "TOP10_STRT_TM": "12:15",
+                        "TOP10_FIN_TM": "14:05",
+                        "TOP10_RATING": "0.71",
+                        "TOP10_RATING_CD": "15"
+                    },
+                    {
+                        "CHNL_NO": "80",
+                        "CHNL_NM": "MBC ON",
+                        "TOP10_PGRM_NM": "밥상 차리는 남자",
+                        "TOP10_PRGM_TM": "12:06 ~ 13:28",
+                        "TOP10_STRT_TM": "12:06",
+                        "TOP10_FIN_TM": "13:28",
+                        "TOP10_RATING": "0.71",
+                        "TOP10_RATING_CD": "15"
+                    },
+                    {
+                        "CHNL_NO": "71",
+                        "CHNL_NM": "FUN TV",
+                        "TOP10_PGRM_NM": "특종세상",
+                        "TOP10_PRGM_TM": "13:00 ~ 14:00",
+                        "TOP10_STRT_TM": "13:00",
+                        "TOP10_FIN_TM": "14:00",
+                        "TOP10_RATING": "0.69",
+                        "TOP10_RATING_CD": "15"
+                    },
+                    {
+                        "CHNL_NO": "48",
+                        "CHNL_NM": "E채널",
+                        "TOP10_PGRM_NM": "라디오스타",
+                        "TOP10_PRGM_TM": "11:35 ~ 13:20",
+                        "TOP10_STRT_TM": "11:35",
+                        "TOP10_FIN_TM": "13:20",
+                        "TOP10_RATING": "0.68",
+                        "TOP10_RATING_CD": "15"
+                    }
+                ]
+            },
+            {
+                "GENRE_ID": "1",
+                "GENRE_NM": "지상파/종편/홈쇼핑",
+                "SORT_SNO": "1"
+            },
+            {
+                "GENRE_ID": "2",
+                "GENRE_NM": "드라마/오락/음악",
+                "SORT_SNO": "2"
+            },
+            {
+                "GENRE_ID": "3",
+                "GENRE_NM": "영화/시리즈",
+                "SORT_SNO": "3"
+            },
+            {
+                "GENRE_ID": "4",
+                "GENRE_NM": "스포츠/레져",
+                "SORT_SNO": "4"
+            },
+            {
+                "GENRE_ID": "5",
+                "GENRE_NM": "애니/유아/교육",
+                "SORT_SNO": "5"
+            },
+            {
+                "GENRE_ID": "6",
+                "GENRE_NM": "다큐/교양",
+                "SORT_SNO": "6"
+            },
+            {
+                "GENRE_ID": "7",
+                "GENRE_NM": "뉴스/경제",
+                "SORT_SNO": "7"
+            },
+            {
+                "GENRE_ID": "8",
+                "GENRE_NM": "공공/공익/정보",
+                "SORT_SNO": "8"
+            },
+            {
+                "GENRE_ID": "9",
+                "GENRE_NM": "종교/오픈",
+                "SORT_SNO": "9"
+            },
+            {
+                "GENRE_ID": "11",
+                "GENRE_NM": "UHD",
+                "SORT_SNO": "11"
+            }
+        ],
+        "LoadTime": 0
+    }
+}
