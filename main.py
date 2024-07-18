@@ -1,6 +1,7 @@
 from Utils.getApiResponse import getApiResponse
 from Utils.dbSaving import dbSaving
 from datetime import datetime
+import time
 
 def main():
     json=getApiResponse()
@@ -24,4 +25,6 @@ def main():
         dbSaving(curTime,chnlNo,chnlName,pgmName,pgmTm,pgmStart,pgmFinish,rating,ranking,pgmDuration)
 
 if __name__=="__main__":
-    main()
+    while True:
+        main()
+        time.sleep(60)
