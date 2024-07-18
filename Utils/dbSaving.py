@@ -1,6 +1,6 @@
 import pymysql
 import pymysql.cursors
-import config
+import Utils.config as config
 
 def dbSaving(CUR_TIME,CHNL_NO,CHNL_NAME,PGM_NM,PGM_TM,PGM_START_TIME,PGM_FIN_TIME,RATING,RANKING,PGM_DURATION):
     host=config.HOST

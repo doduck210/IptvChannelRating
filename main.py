@@ -18,7 +18,7 @@ def main():
         pgmFinish=info["TOP10_FIN_TM"]
         rating=info["TOP10_RATING"]
         ranking+=1
-        pgmDuration=str(datetime.strptime(pgmFinish,"%H:%M")-datetime.strptime(pgmStart,"%H:%M"))[:4]
+        pgmDuration=datetime.strptime(pgmFinish,"%H:%M")-datetime.strptime(pgmStart,"%H:%M")
 
         # Saving it to DB
         dbSaving(curTime,chnlNo,chnlName,pgmName,pgmTm,pgmStart,pgmFinish,rating,ranking,pgmDuration)
